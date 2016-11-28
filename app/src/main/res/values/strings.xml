@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CognitoAndroidSample</string>
+    <string name="facebook_app_id">your-facebook-app-id</string>
 </resources>
